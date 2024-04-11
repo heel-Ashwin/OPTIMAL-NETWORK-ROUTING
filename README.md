@@ -8,7 +8,7 @@ This Python script provides a network planning tool that assists in the design a
 *Selection of network equipment based on user-defined specifications.*
 *Configuration of security measures including firewalls, encryption, and ACLs.*
 *Generation of monitoring tool configurations for network devices.*
-*Utilization of Dijkstra's algorithm to find the shortest path between nodes in the network topology.
+*Utilization of Dijkstra's algorithm to find the shortest path between nodes in the network topology.*
 
 # Getting Started
   # Prerequisites
